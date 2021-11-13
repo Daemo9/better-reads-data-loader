@@ -23,6 +23,5 @@ astra.db:
    region: us-west1
    keyspace: main
    application.token: AstraCS:JBvZITAJtxjnFOIvyTheIalW:25c939193bbad1004f248f3c927763798d65852ae07b2385661e5c3b6a5e9335
-         
-#access token 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
+
          
